@@ -20,3 +20,9 @@ My ultimate goal is to leverage my passion for programming and web development t
 ## Let's Connect!
 
 I'm excited about the possibilities that lie ahead in the dynamic field of technology
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNazir0&langs_count=8)
+
+
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdullahNazir0&show_icons=true&theme=dark)
