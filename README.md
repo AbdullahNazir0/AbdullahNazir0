@@ -22,7 +22,7 @@
 
 # Hello, I'm Abdullah Nazir! 👋
 
-I'm a passionate Computer Science student, currently pursuing my Bachelor's degree. My programming journey began with a strong foundation in C++, and I'm excited to share that I'm expanding my skills by delving into the world of Rust. Additionally, I've equipped myself with web development skills, including HTML, CSS, and JavaScript.
+I'm a passionate Computer Science student, currently pursuing my Bachelor's degree. My programming journey began with a strong foundation in C++, and I'm excited to share that I'm expanding my skills by delving into the world of Rust. Additionally, I've equipped myself with web development skills, including MERN stack.
 
 ## About Me
 
@@ -32,8 +32,8 @@ I'm a passionate Computer Science student, currently pursuing my Bachelor's degr
 
 ## Skills
 
-- **Languages:** C++, Rust, HTML, CSS, JavaScript
-- **Interests:** Web Development, Algorithms, Code Optimization
+- **Languages:** C++, Rust, HTML, CSS, JavaScript, React, Node JS, Express, MySQL, MongoDB
+- **Interests:** Web Development, MERN, Algorithms, Code Optimization
 
 ## Goals
 
