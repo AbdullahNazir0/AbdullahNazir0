@@ -22,26 +22,27 @@
 
 # Hello, I'm Abdullah Nazir! 👋
 
-I'm a passionate Computer Science student, currently pursuing my Bachelor's degree. My programming journey began with a strong foundation in C++, and I'm excited to share that I'm expanding my skills by delving into the world of Rust. Additionally, I've equipped myself with web development skills, including MERN stack.
+I’m a passionate Computer Science student, currently in my 5th semester at UCP, working on expanding my knowledge and skills in both software development and web technologies. My journey started with a solid foundation in C++. I’m also gaining hands-on experience in web development, particularly with the Vue.js, SlimPHP stack and MERN stack, along with MySQL for database management.
 
 ## About Me
 
-- 🔭 I’m currently exploring the realms of computer science and web development.
-- 🌱 I'm always eager to learn and grow, actively seeking new challenges and opportunities.
-- 💻 My coding adventures range from optimizing code and tackling complex algorithms to crafting user-friendly web experiences.
+- 🔭 Currently exploring mobile app development and operating systems.
+- 🌱 Excited to continue building complex full-stack web applications, such as a tailor app using Vue.js and SlimPHP.
+- 💻 I’m passionate about tackling coding challenges, optimizing algorithms, and developing user-centric solutions.
 
 ## Skills
 
-- **Languages:** C++, Rust, HTML, CSS, JavaScript, React, Node JS, Express, MySQL, MongoDB
-- **Interests:** Web Development, MERN, Algorithms, Code Optimization
+- **Languages and Frameworks:** C, C++, HTML, CSS, JavaScript, Vue.js, React.js, Node.js, Express.js, SlimPHP
+- **Databases:** MySQL, MongoDB
+- **Other Interests:** Mobile App Development, Algorithms, Web Development, Code Optimization, System Level Programming
 
 ## Goals
 
-My ultimate goal is to leverage my passion for programming and web development to create impactful solutions that make a positive difference. I'm open to collaboration, always looking to connect with fellow enthusiasts and professionals.
+I aim to leverage my passion for programming and web development to create impactful solutions, starting with a mobile app for the tailor app customer portal. I’m eager to collaborate with like-minded professionals and continue learning as I build my career.
 
 ## Let's Connect!
 
-I'm excited about the possibilities that lie ahead in the dynamic field of technology
+I’m always open to new ideas, collaborations, and learning opportunities in the field of technology. Feel free to reach out or drop a message—I’d love to connect!
 
 ###
 
