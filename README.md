@@ -58,7 +58,8 @@ I’m always open to new ideas, collaborations, and learning opportunities in th
 
 <h3 align="left">🔥   My Most Used Langauges :</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNazir0&hide_progress=false)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNazir0&hide_progress=false) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNazir0&layout=compact&langs_count=10)
 
 ###
 
